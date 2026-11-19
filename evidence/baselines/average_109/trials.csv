@@ -1,0 +1,61 @@
+trial,phase,action,reward,reason
+1,before,A,3,initial exploration
+2,before,B,1,initial exploration
+3,before,C,-2,initial exploration
+4,before,A,3,historical average
+5,before,A,3,historical average
+6,before,A,3,historical average
+7,before,C,-2,exploration
+8,before,A,3,historical average
+9,before,A,3,historical average
+10,before,A,3,historical average
+11,before,A,3,exploration
+12,before,A,3,historical average
+13,before,A,3,historical average
+14,before,A,3,historical average
+15,before,A,3,historical average
+16,before,A,3,historical average
+17,before,A,3,historical average
+18,before,A,3,historical average
+19,before,A,3,historical average
+20,before,A,3,exploration
+21,before,A,3,historical average
+22,before,B,1,exploration
+23,before,A,3,historical average
+24,before,A,3,historical average
+25,before,A,3,historical average
+26,before,A,3,historical average
+27,before,A,3,historical average
+28,before,A,3,historical average
+29,before,A,3,historical average
+30,before,A,3,historical average
+31,after,A,-3,historical average
+32,after,A,-3,exploration
+33,after,A,-3,historical average
+34,after,A,-3,historical average
+35,after,A,-3,historical average
+36,after,A,-3,historical average
+37,after,A,-3,historical average
+38,after,A,-3,historical average
+39,after,A,-3,historical average
+40,after,A,-3,historical average
+41,after,A,-3,historical average
+42,after,A,-3,historical average
+43,after,A,-3,historical average
+44,after,B,1,exploration
+45,after,A,-3,historical average
+46,after,B,1,historical average
+47,after,B,1,historical average
+48,after,A,-3,exploration
+49,after,B,1,historical average
+50,after,B,1,historical average
+51,after,B,1,historical average
+52,after,B,1,historical average
+53,after,B,1,historical average
+54,after,B,1,historical average
+55,after,B,1,historical average
+56,after,B,1,historical average
+57,after,B,1,historical average
+58,after,B,1,historical average
+59,after,B,1,historical average
+60,after,B,1,historical average

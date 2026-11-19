@@ -1,0 +1,20 @@
+{
+  "experiment": "3IN1-C002",
+  "kind": "llm-agent_01",
+  "seed": 102,
+  "trials": 60,
+  "change_after_trial": 30,
+  "model": "llama3.2:latest",
+  "before": {
+    "total_reward": 30,
+    "mean_reward": 1.0,
+    "optimal_action_rate": 0.0
+  },
+  "after": {
+    "total_reward": 30,
+    "mean_reward": 1.0,
+    "optimal_action_rate": 0.0
+  },
+  "overall_reward": 60,
+  "time_to_stable_optimal": null
+}

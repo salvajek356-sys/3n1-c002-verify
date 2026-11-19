@@ -1,0 +1,20 @@
+{
+  "experiment": "3IN1-C002",
+  "kind": "recency",
+  "seed": 102,
+  "trials": 60,
+  "change_after_trial": 30,
+  "model": null,
+  "before": {
+    "total_reward": 78,
+    "mean_reward": 2.6,
+    "optimal_action_rate": 0.9
+  },
+  "after": {
+    "total_reward": 22,
+    "mean_reward": 0.7333,
+    "optimal_action_rate": 0.0
+  },
+  "overall_reward": 100,
+  "time_to_stable_optimal": null
+}

@@ -1,0 +1,61 @@
+trial,phase,action,reward,reason
+1,before,B,1,Random choice to maximize cumulative reward without prior knowledge of reward mapping changes.
+2,before,B,1,Maximise cumulative reward with available information
+3,before,B,1,Maximise cumulative reward with current best strategy
+4,before,B,1,Maximise cumulative reward with current best strategy
+5,before,B,1,Maximise cumulative reward with consistent choice B
+6,before,B,1,Maximizing cumulative reward with consistent choice B.
+7,before,B,1,Maximizing cumulative reward with consistent choice B
+8,before,B,1,Maximizing cumulative reward with consistent choice B.
+9,before,B,1,Maximizing cumulative reward with consistent choice B.
+10,before,B,1,Maximizing cumulative reward with consistent choice B.
+11,before,B,1,Maximizing cumulative reward with consistent choice B.
+12,before,B,1,Maximizing cumulative reward with consistent choice of B
+13,before,B,1,Maximizing cumulative reward with consistent choice of B
+14,before,B,1,Maximizing cumulative reward with consistent choice of B
+15,before,B,1,Maximizing cumulative reward with consistent choice of B
+16,before,B,1,Maximizing cumulative reward with consistent choice of B
+17,before,B,1,Maximizing cumulative reward with consistent choice of B
+18,before,B,1,Maximizing cumulative reward with consistent choice of B
+19,before,B,1,Maximizing cumulative reward with consistent choice of B
+20,before,B,1,Maximizing cumulative reward with consistent choice of B
+21,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+22,before,B,1,Maximizing cumulative reward with consistent choice of B
+23,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+24,before,B,1,Maximizing cumulative reward with consistent choice of B
+25,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+26,before,B,1,Maximizing cumulative reward with consistent choice of B
+27,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+28,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+29,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+30,before,B,1,Maximizing cumulative reward with consistent recent outcomes.
+31,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+32,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+33,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+34,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+35,after,B,1,Consistency with recent outcomes and no clear indication to deviate from the current strategy.
+36,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+37,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+38,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+39,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+40,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+41,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+42,after,B,1,Maximizing cumulative reward with consistent choice of B
+43,after,B,1,Maximizing cumulative reward with consistent choice of B
+44,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+45,after,B,1,Consistency with recent outcomes and no clear indication to deviate from the current strategy.
+46,after,B,1,Consistency with recent outcomes and no clear indication to deviate from the current strategy.
+47,after,B,1,Consistency with recent outcomes and no clear indication to deviate from the current strategy.
+48,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+49,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+50,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+51,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+52,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+53,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+54,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+55,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+56,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+57,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+58,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+59,after,B,1,Maximizing cumulative reward with consistent recent outcomes.
+60,after,B,1,Maximizing cumulative reward with consistent recent outcomes.

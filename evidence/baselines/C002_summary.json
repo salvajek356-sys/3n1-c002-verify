@@ -1,0 +1,46 @@
+{
+  "experiment": "3IN1-C002",
+  "trials_per_run": 60,
+  "change_after_trial": 30,
+  "model": null,
+  "bar": "LLM arm beats the recency controller on both the median time-to-stable-optimal and the post-change mean reward.",
+  "arms": {
+    "fixed": {
+      "runs": 10,
+      "median_time_to_stable_optimal": null,
+      "never_stable": 10,
+      "mean_total_reward": 0,
+      "mean_after_reward": -3.0,
+      "mean_after_optimal_rate": 0.0
+    },
+    "random": {
+      "runs": 10,
+      "median_time_to_stable_optimal": 38,
+      "never_stable": 5,
+      "mean_total_reward": 36.8,
+      "mean_after_reward": 0.63,
+      "mean_after_optimal_rate": 0.3167
+    },
+    "average": {
+      "runs": 10,
+      "median_time_to_stable_optimal": null,
+      "never_stable": 10,
+      "mean_total_reward": 51.7,
+      "mean_after_reward": -0.853,
+      "mean_after_optimal_rate": 0.0267
+    },
+    "recency": {
+      "runs": 10,
+      "median_time_to_stable_optimal": 41.5,
+      "never_stable": 6,
+      "mean_total_reward": 121,
+      "mean_after_reward": 1.457,
+      "mean_after_optimal_rate": 0.2367
+    }
+  },
+  "limitations": [
+    "Scripted arms are deterministic or statistical controllers, not learning models.",
+    "The LLM arms use prompted history and external memory; they do not modify model weights.",
+    "Results do not establish awareness."
+  ]
+}

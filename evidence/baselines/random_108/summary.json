@@ -1,0 +1,20 @@
+{
+  "experiment": "3IN1-C002",
+  "kind": "random",
+  "seed": 108,
+  "trials": 60,
+  "change_after_trial": 30,
+  "model": null,
+  "before": {
+    "total_reward": 29,
+    "mean_reward": 0.9667,
+    "optimal_action_rate": 0.4333
+  },
+  "after": {
+    "total_reward": 26,
+    "mean_reward": 0.8667,
+    "optimal_action_rate": 0.4
+  },
+  "overall_reward": 55,
+  "time_to_stable_optimal": 31
+}

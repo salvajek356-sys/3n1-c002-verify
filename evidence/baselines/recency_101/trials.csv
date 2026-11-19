@@ -1,0 +1,61 @@
+trial,phase,action,reward,reason
+1,before,A,3,initial exploration
+2,before,B,1,initial exploration
+3,before,C,-2,initial exploration
+4,before,A,3,most recent action outcome
+5,before,A,3,most recent action outcome
+6,before,A,3,most recent action outcome
+7,before,A,3,most recent action outcome
+8,before,A,3,most recent action outcome
+9,before,A,3,most recent action outcome
+10,before,A,3,most recent action outcome
+11,before,A,3,most recent action outcome
+12,before,A,3,most recent action outcome
+13,before,A,3,most recent action outcome
+14,before,A,3,most recent action outcome
+15,before,A,3,most recent action outcome
+16,before,A,3,exploration
+17,before,A,3,most recent action outcome
+18,before,A,3,most recent action outcome
+19,before,A,3,most recent action outcome
+20,before,A,3,most recent action outcome
+21,before,A,3,most recent action outcome
+22,before,A,3,most recent action outcome
+23,before,A,3,most recent action outcome
+24,before,A,3,most recent action outcome
+25,before,B,1,exploration
+26,before,A,3,most recent action outcome
+27,before,C,-2,exploration
+28,before,A,3,most recent action outcome
+29,before,A,3,most recent action outcome
+30,before,A,3,most recent action outcome
+31,after,A,-3,most recent action outcome
+32,after,B,1,most recent action outcome
+33,after,B,1,most recent action outcome
+34,after,B,1,most recent action outcome
+35,after,B,1,most recent action outcome
+36,after,B,1,exploration
+37,after,B,1,most recent action outcome
+38,after,A,-3,exploration
+39,after,B,1,most recent action outcome
+40,after,B,1,most recent action outcome
+41,after,B,1,most recent action outcome
+42,after,B,1,most recent action outcome
+43,after,B,1,most recent action outcome
+44,after,B,1,most recent action outcome
+45,after,B,1,most recent action outcome
+46,after,B,1,most recent action outcome
+47,after,B,1,most recent action outcome
+48,after,B,1,most recent action outcome
+49,after,B,1,most recent action outcome
+50,after,B,1,most recent action outcome
+51,after,B,1,most recent action outcome
+52,after,B,1,most recent action outcome
+53,after,B,1,most recent action outcome
+54,after,B,1,most recent action outcome
+55,after,B,1,most recent action outcome
+56,after,B,1,most recent action outcome
+57,after,B,1,most recent action outcome
+58,after,B,1,most recent action outcome
+59,after,B,1,most recent action outcome
+60,after,C,4,exploration
